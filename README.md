@@ -12,4 +12,4 @@ Requirments
 
 • Machine Learning
 
-• Aurduino 
+• Arduino 
